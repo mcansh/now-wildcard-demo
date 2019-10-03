@@ -1153,6 +1153,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@mcansh/next-now-base-url@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@mcansh/next-now-base-url/-/next-now-base-url-1.1.0.tgz#fba00f821638a3dc92e5ae34eb0894687570f8f7"
+  integrity sha512-azQK12vikY/M0BfADQtEq45y8q4QHMKuejtj9w43Wesid3IMYaRgm/fmdDCrajb9JKDv6pfYhMZQai/9lOI5Sg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
