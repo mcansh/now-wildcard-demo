@@ -38,7 +38,7 @@
     "babel-plugin-root-import": "6.4.1",
     "babel-plugin-styled-components": "1.10.6",
     "jest": "24.9.0",
-    "next": "9.0.7",
+    "next": "12.0.7",
     "next-offline": "4.0.5",
     "next-server": "9.0.5",
     "react": "16.10.1",
